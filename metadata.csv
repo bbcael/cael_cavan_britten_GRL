@@ -1,0 +1,55 @@
+paper number,citation,location,method,particle type,other notes
+1,Alldredge & Gotschalk 1989,Santa Barbara Channel,In situ (scuba+dye),Diatom aggregates,
+2,Alldredge & Gotschalk 1988,California Current,In situ (scuba+dye),Aggregates,
+3.1,Azetsu-Scott & Johnson 1991,Bedford Basin,Settling column,Aggregates,
+3.2,Azetsu-Scott & Johnson 1991,Lab,Settling column,Diatom aggregates,
+4,Iversen et al 2010,Cape Blanc (Mauritania),Vertical flow system,Ballasted aggregates,
+5,Belcher et al 2016 L&O,Southern Ocean,Flow chamber,Fecal pellets,
+6,Belcher et al 2016 BGS,PAP,Flow chamber,Aggregates,
+7,Carder et al 1982,Bahamas,Holographic velocimeter,Ballasted aggregates,
+8.1,Cavan et al 2018,ETNP (Guatemala),FlowCAM,Fecal pellets,Flag SVs for particles above 1.25mm ESD
+8.2,Cavan et al 2018,ETNP (Guatemala),FlowCAM,Fecal pellets,Flag SVs for particles above 1.25mm ESD
+9,Deibel 1990,South Atlantic Bight,Settling column,Fecal pellets,
+10.1,Diercks & Asper 1997,Black Sea,MASCOT,Aggregates,
+10.2,Diercks & Asper 1997,Gulf of Mexico,MASCOT,Aggregates,
+11.1,Engel & Schartau 1999,Lab,Roller tank,Diatom aggregates,3 expts: different TEP levels via N starvation
+11.2,Engel & Schartau 1999,Lab,Roller tank,Diatom aggregates,3 expts: different TEP levels via N starvation
+11.3,Engel & Schartau 1999,Lab,Roller tank,Diatom aggregates,3 expts: different TEP levels via N starvation
+12,Gibbs 1985,Chesapeake bay,Settling column,Ballasted aggregates,
+13,Chase 1979 // Kawana and Tanimoto 1979 [via Hawley 1982],Buzzard's bay // Osaka bay,Custom settling column // Settling column,Aggregates,~ // Near bottom
+14.1,Iversen & Ploug 2010,Lab,Vertical flow system,Ballasted diatom aggregates,
+14.2,Iversen & Ploug 2010,Lab,Vertical flow system,Ballasted aggregates,
+14.3,Iversen & Ploug 2010,Lab,Vertical flow system,Ballasted aggregates,mix of diatoms & E hux
+15,Hill et al 1998,Glacier bay,Floc camera assembly,Aggregates,Near bottom
+16,Iversen et al 2017,Southern Ocean,Vertical flow system,Fecal pellets,
+17.1,Iversen & Ploug 2013 [15C],Lab,Vertical flow system,Diatom aggregates,
+17.2,Iversen & Ploug 2013 [4C],Lab,Vertical flow system,Diatom aggregates,
+18.1,Iversen & Robert 2015,Lab,Vertical flow system,Diatom aggregates,
+18.2,Iversen & Robert 2015,Lab,Vertical flow system,Ballasted diatom aggregates,
+19,Kajihara 1971,Kuroshio,Settling column,Aggregates,Near bottom
+20.1,Laurenceau-Cornec et al 2015,Southern Ocean,Settling column,Diatom aggregates,
+20.2,Laurenceau-Cornec et al 2015,Lab,Roller tank,Diatom aggregates,
+21.1,Laurenceau-Cornec et al 2019,Lab,Roller tank,Diatom aggregates,
+21.2,Laurenceau-Cornec et al 2019,Lab,Roller tank,Ballasted diatom aggregates,
+22.1,Engel et al 2009,Lab,Roller tank,Aggregates,
+22.2,Engel et al 2009,Lab,Roller tank,Ballasted aggregates,
+22.3,Engel et al 2009,Lab,Roller tank,Diatom aggregates,
+22.4,Engel et al 2009,Coastal Baltic Sea,Roller tank,Diatom aggregates,
+22.5,Engel et al 2009,North Adriatic Sea,Roller tank,Diatom aggregates,
+23,Nowald et al 2009,Cape Blanc (Mauritania),In situ chamber,Ballasted aggregates,
+24,Shanks & Trent 1980,Monterey Bay (+NE Atl.),In situ (scuba),Aggregates,
+25.1,Small et al 1979,Ligurian Sea,Settling column,Fecal pellets,
+25.2,Small et al 1979,Ligurian Sea,Settling column,Fecal pellets,
+25.3,Fowler and Small 1972 [via Small et al 1979],Ligurian Sea,Settling column,Fecal pellets,
+26,Smayda 1969,Naragansett Bay,Settling column,Fecal pellets,
+27,Syvitski et al 1995,Bedford Basin,Floc camera assembly,Ballasted aggregates,
+28.1,Van der Jagt et al 2018,Cape Blanc (Mauritania),Vertical flow system,Aggregates,3 diff. treatments
+28.2,Van der Jagt et al 2018,Cape Blanc (Mauritania),Vertical flow system,Aggregates,3 diff. treatments
+28.3,Van der Jagt et al 2018,Cape Blanc (Mauritania),Vertical flow system,Aggregates,3 diff. treatments
+28.4,Van der Jagt et al 2018,Cape Blanc (Mauritania),Vertical flow system,Ballasted aggregates,3 diff. treatments
+28.5,Van der Jagt et al 2018,Cape Blanc (Mauritania),Vertical flow system,Ballasted aggregates,3 diff. treatments
+28.6,Van der Jagt et al 2018,Cape Blanc (Mauritania),Vertical flow system,Ballasted aggregates,3 diff. treatments
+29,Smayda 1970 [via Jouandet et al 2011?],Lab,Settling column,Aggregates,"cells, really"
+30,Guidi et al 2008 [via Jouandet et al 2011],"Global (Med, S Pac, N Atl)",Indirectly inferred,Aggregates,
+31,McDonnell & Buesseler 2010,W Antarctic Peninsula,Indirectly inferred,Aggregates,
+32,Jouandet et al 2011,Southern Ocean,Indirectly inferred,Aggregates,
